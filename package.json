@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "Oscar Barajas <oscar@platzi.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.8.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^6.6.0"
+  }
 }
