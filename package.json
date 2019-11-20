@@ -10,7 +10,6 @@
   "author": "Oscar Barajas <oscar@platzi.com>",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.15.0",
     "moment": "^2.24.0"
   },
   "devDependencies": {
